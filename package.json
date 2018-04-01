@@ -1,0 +1,28 @@
+{
+  "name": "@skeleton/router",
+  "version": "0.0.2",
+  "description": "Router for Skeleton Mini Framework",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benavidesoficial/skeleton-router.git"
+  },
+  "author": "Miguel Benavides",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benavidesoficial/skeleton-router/issues"
+  },
+  "homepage": "https://github.com/benavidesoficial/skeleton-router#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "glob": "^7.1.2",
+    "pkg-dir": "^2.0.0"
+  }
+}
