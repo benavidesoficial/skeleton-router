@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benavidesoficial/skeleton-router.git"
+    "url": "git+ssh://git@github.com:benavidesoficial/skeleton-router.git"
   },
   "author": "Miguel Benavides",
   "license": "MIT",
