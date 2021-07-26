@@ -1,5 +1,9 @@
 {
   "name": "@skeleton/router",
+  "np": {
+    "yarn": false,
+    "tests": false
+  },
   "version": "2.0.6",
   "description": "Router for Skeleton Mini Framework",
   "main": "index.js",
@@ -24,9 +28,5 @@
   "dependencies": {
     "express": "^4.17.1",
     "fdir": "^5.1.0"
-  },
-  "np": {
-    "yarn": false,
-    "tests": false
   }
 }
