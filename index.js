@@ -1,3 +1,3 @@
-const Router = require('./lib/Router');
+import Router from './lib/Router.js';
 
-module.exports = new Router();
+export default Router;
