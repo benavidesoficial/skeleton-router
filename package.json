@@ -24,9 +24,5 @@
   "dependencies": {
     "express": "^4.17.1",
     "fdir": "^5.1.0"
-  },
-  "np": {
-    "yarn": false,
-    "yolo": true
   }
 }
