@@ -1,24 +1,3 @@
 {
-  "*": [
-    "cors",
-    "jwt"
-  ],
-  "login": {
-    "*" : []
-  },
-  "invoices": {
-    "*": [
-      "passport",
-      "morgan"
-    ],
-    "action": [
 
-    ],
-    "create": [],
-    "read": [
-      "helmet"
-    ],
-    "delete": [],
-    "update": []
-  }
 }
